@@ -15,7 +15,7 @@
 
 ## Contacts
 
-- 이메일 : [Naver:mail](sdg0226@naver.com)
+- 이메일 : [Naver:mail]sdg0226@naver.com
 - **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
 
 ## Educational Course
