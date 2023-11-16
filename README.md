@@ -29,7 +29,7 @@
 
 ### 재학생 수행 프로젝트
 
-- `2022-03` [딥러닝 실제](https://github.com/Depride/industrial-AI/tree/master/projects/2022년도-1학기/딥러닝-실제): 딥러닝의 기본 개념 및 원리의 이해
+- `2022-03` [딥러닝 실제](https://github.com/Depride/industrial_AI/tree/main/projects/2022%EB%85%84%EB%8F%84%201%ED%95%99%EA%B8%B0/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C): 딥러닝의 기본 개념 및 원리의 이해
 - `2022-03` [산업인공지능 개론](https://github.com/Depride/industrial-AI/tree/master/projects/2022년도-1학기/산업인공지능-개론): Python 기반의 오픈소스를 활용한 실습 및 프로젝트 수행을 통한 결과물 산출
 - `2022-03` [자율주행이동체 실제](https://github.com/Depride/industrial-AI/tree/master/projects/2022년도-1학기/자율이동체-실제): 자율주행이동체에 대한 개념 및 시스템의 이해
 - `2022-09` [어프렌티스 프로젝트](https://github.com/Depride/industrial-AI/tree/master/projects/2022년도-2학기/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
